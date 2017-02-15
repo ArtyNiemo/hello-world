@@ -1,1 +1,1 @@
-# hello-world
+# hello-world I am Arty, a Civil Engineering Graduate and ex-construction site manager looking to make a switch of career into ICT; this of course means learning a riddiculous ammount of new things i.e using a linux system enviroment, it's actually quite overwhelming the ammount of free knowledge the world-wide-web holds. 
